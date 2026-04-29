@@ -1,7 +1,6 @@
 
 # 👋 Hi, I'm Sherkhan💡
 
-## 🔍 I am a:
 📚Computer science student at NIS<br/>
 🧠I build full-stack web applications with AI-models<br/>
 📈Currently building startups<br/>
