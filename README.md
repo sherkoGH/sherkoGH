@@ -10,3 +10,4 @@
 ![Assembly](https://img.shields.io/badge/Assembly-%232EAD33.svg?style=for-the-badge&logo=assembly&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-%23FF6F00.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherkoGH&layout=compact&theme=vision-friendly-dark)
