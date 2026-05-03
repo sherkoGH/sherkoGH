@@ -13,4 +13,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherkoGH&layout=compact&theme=vision-friendly-dark)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sherkoGH&layout=compact&theme=vision-friendly-dark)
